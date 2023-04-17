@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Client": {
+            "name": "Pedro Santos",
+            "cellularTelephone": 999999999
+        },
+        "Vehicle": {
+            "licensePlate": "PKP0908",
+            "model:": "corsa",
+            "fabricationYear": 2010
+        }
+    },
+    {
+        "id": 2,
+        "Client": {
+            "name": "Fernando Batista",
+            "cellularTelephone": 988888888
+        },
+        "Vehicle": {
+            "licensePlate": "JWY0399",
+            "model:": "fusca",
+            "fabricationYear": 1991
+        }
+    },
+    {
+        "id": 3,
+        "Client": {
+            "name": "Arivaldo Assunção",
+            "cellularTelephone": 977777777
+        },
+        "Vehicle": {
+            "licensePlate": "CGH8855",
+            "model:": "chervet",
+            "fabricationYear": 1989
+        }
+    }
+]
