@@ -1,0 +1,97 @@
+.header {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.ultracar-logo-img {
+    width: 20%;
+}
+
+.link {
+    border: 1px solid PowderBlue;
+    border-radius: 20px;
+    background-color: PowderBlue;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 8px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    background-color: white;
+}
+
+.footer {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.QRCodeSquare {
+    border: 1px dashed blue;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 70px;
+}
+
+.QRCodeReadingButton {
+    margin-top: 30px;
+    margin-left: 570px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.fieldset {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 40px;
+}
+
+.fieldset-item {
+    margin-left: 30px;
+}
+
+.employee {
+    margin-left: 430px;
+}
+
+.piece {
+    margin-left: 50px;
+}
+
+.serviceRegisterButton {
+    margin-top: 40px;
+    margin-left: 600px;
+}
+
+.serviceRegisterButtonName {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.registered-services-table {
+    margin-left: 155px;
+}
+
+.registered-services-table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 13px;
+}
+
+.registered-services-screen-title {
+    margin-left: 485px;
+    margin-bottom: 40px;
+    font-size: 25px;
+    color: DodgerBlue;
+}
+
+.pageNotFound {
+    margin-left: 490px;
+    font-size: 30px;
+    color: DodgerBlue;
+}
