@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Joseval Brasil",
+        "role": "mecânico"
+    },
+    {
+        "id": 2,
+        "name": "Elias Silva",
+        "role": "mecânico"
+    },
+    {
+        "id": 3,
+        "name": "Bruno Neves",
+        "role": "mecânico"
+    },
+    {
+        "id": 4,
+        "name": "Paola Brito",
+        "role": "mecânico"
+    }
+]
